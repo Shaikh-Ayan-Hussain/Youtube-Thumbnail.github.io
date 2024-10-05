@@ -32,8 +32,8 @@
     margin-left: 47px;
     margin-top: -29px;
     font-size: 17px;
-    /* font-weight: lighter; */
-    color: rgba(0, 0, 0, 0.733);
+    font-weight: lighter;
+    color: rgba(0, 0, 0, 0.87);
 }
 .line{
     height: 15px;
